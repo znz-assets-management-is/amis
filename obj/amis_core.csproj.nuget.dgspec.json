@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core\\amis_core.csproj": {}
+    "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core.csproj": {}
   },
   "projects": {
-    "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core\\amis_core.csproj": {
+    "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core\\amis_core.csproj",
+        "projectUniqueName": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core.csproj",
         "projectName": "amis_core",
-        "projectPath": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core\\amis_core.csproj",
+        "projectPath": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core.csproj",
         "packagesPath": "C:\\Users\\shemu\\.nuget\\packages\\",
-        "outputPath": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\amis_core\\obj\\",
+        "outputPath": "D:\\STAFF\\PROFESSIONAL\\PROJECT\\znz_amis\\amis_core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
